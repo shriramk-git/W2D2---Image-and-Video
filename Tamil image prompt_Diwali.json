@@ -1,0 +1,55 @@
+{
+  "prompt_name": "Tamil Nadu Diwali - Cinematic Cultural Portrait",
+  "subject": {
+    "main_subject": "A joyful Tamil family celebrating Diwali together",
+    "people": "A mother, father, and two daughters aged 13 and 11, with natural smiles and believable family interaction",
+    "traditional_clothing": "The mother wears a rich Kanchipuram silk saree; the father wears a crisp white veshti and traditional shirt; the daughters wear colourful silk pavadai-dhavani outfits",
+    "cultural_details": "Traditional brass kuthu vilakku, clay diyas, jasmine flowers, gold jewellery, and an intricate kolam decorated with flower petals",
+    "expression_and_mood": "Genuine happiness, warmth, family togetherness, and youthful excitement"
+  },
+  "setting": {
+    "location": "A traditional Tamil Nadu family home's entrance and courtyard",
+    "environment": "Terracotta flooring, a wooden doorway, mango-leaf toranam, marigold garlands, and rows of clay lamps",
+    "cultural_context": "A family gathering for Deepavali in Tamil Nadu, with regionally appropriate decorations and customs",
+    "authenticity": "Keep the clothing, home architecture, decorations, and family activities consistent with Tamil Nadu traditions"
+  },
+  "time_of_day": "Early evening at twilight",
+  "lighting": {
+    "type": "Warm diya light mixed with soft blue twilight",
+    "quality": "Natural cinematic contrast, gentle highlights on silk and brass, realistic skin tones",
+    "mood": "Magical, festive, intimate, and heartwarming"
+  },
+  "camera": {
+    "shot_type": "Wide cinematic family portrait",
+    "angle": "Eye-level",
+    "lens": "35mm",
+    "depth_of_field": "Moderately shallow, with the family in sharp focus and lamps softly glowing in the background",
+    "composition": "Family centred naturally, diyas and kolam visible in the foreground, traditional doorway in the background",
+    "quality": "Photorealistic, high detail, natural anatomy, realistic fabric texture, cinematic composition"
+  },
+  "palette": {
+    "primary_colors": ["Deep red", "turmeric yellow", "peacock green", "royal blue"],
+    "supporting_colors": ["Brass gold", "jasmine white", "terracotta", "warm amber"],
+    "color_grading": "Rich festive colours with restrained saturation and natural skin tones"
+  },
+  "style": {
+    "visual_style": "Photorealistic cinematic Indian family photography",
+    "detail_level": "Intricate silk weaving, authentic jewellery, realistic diya flames, detailed kolam patterns",
+    "overall_feeling": "A premium festival film still celebrating Tamil heritage and family bonds"
+  },
+  "aspect_ratio": "16:9",
+  "text_in_image": {
+    "enabled": false,
+    "text": "",
+    "language": "Tamil",
+    "instruction": "No text or lettering in the image"
+  },
+  "things_to_avoid": [
+    "North Indian wedding attire or unrelated regional customs",
+    "Unrealistic temple structures in a residential courtyard",
+    "Excessive fireworks or dangerous fire near children",
+    "Distorted hands, duplicated people, artificial smiles",
+    "Plastic skin, oversaturated colours, garbled text, watermarks"
+  ],
+  "final_instruction": "Create a visually stunning but believable Tamil Nadu Deepavali celebration, emphasizing family warmth, authentic tradition, beautiful diya light, and cinematic storytelling."
+}

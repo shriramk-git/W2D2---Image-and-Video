@@ -1,0 +1,72 @@
+{
+  "prompt_name": "Authentic Tamil Nadu Culture Image Generator",
+  "subject": {
+    "main_subject": "[Describe the main person, people, festival, cultural event, or object]",
+    "people": "[Age, appearance, natural expressions, poses, and relationships]",
+    "traditional_clothing": "[Kanchipuram silk saree, pavadai-dhavani, veshti, angavastram, or other context-appropriate attire]",
+    "cultural_details": "[Appropriate jewellery, jasmine flowers, kolam, traditional instruments, lamps, or other relevant details]",
+    "expression_and_mood": "Natural, joyful, respectful, expressive, and emotionally believable"
+  },
+  "setting": {
+    "location": "[Tamil Nadu village, traditional Tamil home, temple courtyard, Chettinad mansion, coastal town, agricultural field, or another specific location]",
+    "environment": "[Authentic architecture, local vegetation, traditional decorations, and appropriate surroundings]",
+    "cultural_context": "[Specify the festival, occasion, regional tradition, or everyday activity]",
+    "authenticity": "Represent Tamil Nadu's regional culture accurately. Use historically and culturally appropriate objects, clothing, architecture, and customs. Avoid mixing unrelated regional traditions."
+  },
+  "time_of_day": "[Golden sunrise, bright morning, afternoon, sunset, blue hour, or night]",
+  "lighting": {
+    "type": "[Natural sunlight, warm oil-lamp glow, soft window light, or festive illumination]",
+    "quality": "Soft, realistic, cinematic light with natural shadows and believable highlights",
+    "mood": "[Warm, celebratory, peaceful, devotional, energetic, or nostalgic]"
+  },
+  "camera": {
+    "shot_type": "[Wide establishing shot, medium shot, close-up portrait, or detailed macro shot]",
+    "angle": "[Eye-level, slightly low angle, overhead, or another suitable perspective]",
+    "lens": "[35mm for environmental storytelling, 50mm for natural perspective, or 85mm for portraits]",
+    "depth_of_field": "[Deep focus for architecture and cultural scenes, or shallow depth of field for portraits]",
+    "composition": "[Balanced composition, clear subject separation, natural proportions, and intentional foreground and background]",
+    "quality": "High detail, realistic anatomy, sharp focal subject, natural skin texture, physically plausible perspective"
+  },
+  "palette": {
+    "primary_colors": [
+      "Kanchipuram silk red",
+      "turmeric yellow",
+      "peacock green",
+      "deep maroon"
+    ],
+    "supporting_colors": [
+      "Brass gold",
+      "jasmine white",
+      "earthy terracotta",
+      "natural leaf green"
+    ],
+    "color_grading": "Rich but believable colors, realistic skin tones, controlled highlights, and no excessive saturation"
+  },
+  "style": {
+    "visual_style": "[Photorealistic cinematic photography, documentary photography, traditional painting, or illustrated travel poster]",
+    "detail_level": "Highly detailed cultural craftsmanship, realistic fabrics, accurate architectural features, and convincing materials",
+    "overall_feeling": "Beautiful, dignified, culturally grounded, authentic, and visually memorable"
+  },
+  "aspect_ratio": "16:9",
+  "text_in_image": {
+    "enabled": false,
+    "text": "",
+    "language": "Tamil",
+    "instruction": "If text is enabled, use only the exact requested wording. Ensure Tamil script is correctly formed and legible. Otherwise, include no lettering."
+  },
+  "things_to_avoid": [
+    "Incorrect or generic South Indian cultural representation",
+    "North Indian festival clothing or customs inserted without contextual justification",
+    "Inaccurate temple architecture or invented historical details",
+    "Incorrect traditional garments, jewellery, hairstyles, or draping",
+    "Stereotypical or exaggerated facial features",
+    "Plastic-looking skin, excessive beauty filters, or artificial expressions",
+    "Anatomical errors, malformed hands, extra fingers, duplicated people, or distorted faces",
+    "Floating objects, physically impossible shadows, or inconsistent reflections",
+    "Excessive saturation, artificial HDR, or unrealistic lighting",
+    "Unrequested text, misspelled Tamil words, watermarks, logos, or random lettering",
+    "Crowded composition that obscures the main subject",
+    "Mixing unrelated cultural symbols merely for decoration"
+  ],
+  "final_instruction": "Generate one cohesive, visually compelling image. Prioritize cultural accuracy, regional specificity, believable human details, authentic materials, and strong visual storytelling over decorative excess."
+}
