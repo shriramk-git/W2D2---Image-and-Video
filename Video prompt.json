@@ -1,0 +1,79 @@
+{
+"prompt_name": "The Golden Age of Ancient Tamil Nadu",
+"duration_seconds": 5,
+"aspect_ratio": "16:9",
+"framework": "SCALE",
+"subject": {
+"primary": "Raja Raja Chola I, the great Chola emperor, overseeing the construction of the Brihadisvara Temple, known as Thanjai Periya Kovil, and the prosperous agricultural lands of his kingdom.",
+"king_appearance": "A historically inspired Tamil emperor in his prime, wearing an elegant traditional silk garment, royal ornaments, a period-appropriate Chola crown, and a dignified expression. His appearance should feel historically grounded rather than fantasy-inspired.",
+"secondary_subjects": [
+"Skilled Chola-era stone artisans carefully carving and positioning massive granite blocks.",
+"Tamil farmers in historically appropriate cotton garments working in lush green paddy fields.",
+"Traditional agricultural workers tending crops using period-appropriate tools and techniques."
+],
+"cultural_authenticity": "Represent the Chola period through plausible clothing, traditional craftsmanship, agricultural practices, and historically inspired architecture. Do not present modern objects."
+},
+"composition": {
+"shot_type": "Epic wide-angle cinematic establishing shot",
+"foreground": "Raja Raja Chola I stands on a slightly elevated earthen pathway beside emerald-green paddy fields, observing his farmers with a calm, proud expression.",
+"midground": "Farmers work among vibrant rice plants, with narrow irrigation channels reflecting the morning sunlight.",
+"background": "The monumental stone structure of Thanjai Periya Kovil rises above the landscape, with artisans working around its construction site.",
+"visual_hierarchy": "The emperor, the temple, and the agricultural landscape must all be clearly recognizable in one coherent composition.",
+"camera_movement": "A smooth, slow cinematic dolly forward combined with a subtle lateral reveal, creating depth without rapid movement.",
+"framing": "Balanced composition with the emperor on one side, the temple dominating the background, and the green fields extending across the frame."
+},
+"action": {
+"timeline": [
+{
+"time": "0-2 seconds",
+"action": "Establish the vast green paddy fields and the magnificent stone temple under construction. Farmers move naturally through the fields while artisans work on the temple."
+},
+{
+"time": "2-4 seconds",
+"action": "The camera gently advances to reveal Raja Raja Chola I overseeing the scene. He looks towards the temple and then towards his farmers, conveying pride in the kingdom's architecture and agricultural prosperity."
+},
+{
+"time": "4-5 seconds",
+"action": "A subtle breeze moves the rice plants and the emperor's garment. Warm sunlight illuminates the temple stonework as the shot ends on a powerful, majestic composition."
+}
+],
+"motion_quality": "Natural human movement, realistic cloth physics, gentle crop movement, consistent architecture, and smooth cinematic motion."
+},
+"location": {
+"historical_period": "Chola dynasty, early 11th century CE, during the reign of Raja Raja Chola I.",
+"primary_location": "Thanjavur, Tamil Nadu, South India.",
+"architecture": "Historically inspired Chola stone temple architecture reflecting the monumental Dravidian design of Brihadisvara Temple. Since the temple was completed around 1010 CE, depict an active construction phase consistent with the early 11th century rather than a fully completed temple.",
+"landscape": "Fertile Kaveri delta agricultural landscape, lush paddy fields, traditional irrigation channels, and a warm South Indian horizon.",
+"historical_constraints": "No modern buildings, electricity, machinery, roads, vehicles, plastics, or contemporary farming equipment."
+},
+"aesthetic": {
+"visual_style": "Photorealistic historical epic, premium cinematic period film, realistic materials, and large-scale environmental storytelling.",
+"lighting": "Early morning golden sunlight with soft atmospheric haze and realistic shadows.",
+"colour_palette": [
+"Emerald green paddy fields",
+"Warm granite grey",
+"Earthy terracotta brown",
+"Golden sunlight",
+"Natural cotton white"
+],
+"camera_lens": "28mm cinematic wide-angle lens",
+"depth_of_field": "Deep focus, keeping the emperor, farmers, and temple visually legible.",
+"texture": "Detailed granite masonry, weathered stone, natural vegetation, realistic skin, and authentic-looking woven fabrics.",
+"sound_design": {
+"music": "Subtle, majestic South Indian instrumental score featuring veena, flute, and restrained traditional percussion.",
+"ambience": "Gentle breeze through paddy fields, distant birds, quiet agricultural activity, and faint stone-working sounds.",
+"dialogue": "No dialogue; let the visuals communicate the grandeur of Chola civilization."
+}
+},
+"negative_prompt": [
+"Fantasy armour, oversized crowns, magical effects, or fictional royal costumes",
+"Modern construction cranes, cement mixers, steel scaffolding, or power tools",
+"Modern tractors, electric pumps, plastic irrigation pipes, or contemporary clothing",
+"Incorrect temple architecture or modern completed structures during the construction scene",
+"Distorted faces, malformed hands, duplicate people, or unnatural body proportions",
+"Rapid camera movements, flickering, unstable architecture, or sudden scene changes",
+"Overly saturated colours, artificial CGI appearance, excessive fog, or unrealistic lighting",
+"Text overlays, subtitles, logos, watermarks, or random lettering"
+],
+"final_instruction": "Create one continuous five-second cinematic shot celebrating the engineering, agricultural prosperity, and cultural achievements of the Chola civilization. Raja Raja Chola I must be visibly overseeing both the temple construction and the farmers in the green paddy fields. Prioritize historical plausibility, majestic scale, coherent composition, and realistic motion."
+}
